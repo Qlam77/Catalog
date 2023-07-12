@@ -1,2 +1,2 @@
-# Catalog
-Creates a catalog in MS Word
+# Catalog Creation Tool for MS Word
+Utilizes VBA Macros to create a catalog in MS Word
